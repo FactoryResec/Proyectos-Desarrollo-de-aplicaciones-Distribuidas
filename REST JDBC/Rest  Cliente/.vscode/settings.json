@@ -1,0 +1,6 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": null
+    },
+    "python.pythonPath": "venv\\Scripts\\python.exe"
+}
